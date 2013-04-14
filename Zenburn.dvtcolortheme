@@ -53,7 +53,7 @@
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>0.372549 0.498039 0.372549 1</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>0.54902 0.815686 0.827451 1</string>
+		<string>0.580392 0.74902 0.952941 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
 		<string>0.580392 0.74902 0.952941 1</string>
 		<key>xcode.syntax.identifier.constant</key>
@@ -63,7 +63,7 @@
 		<key>xcode.syntax.identifier.function</key>
 		<string>0.486275 0.721569 0.733333 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>0.488942 0.633583 0.823722 1</string>
+		<string>0.486275 0.721569 0.733333 1</string>
 		<key>xcode.syntax.identifier.macro</key>
 		<string>0.576471 0.878431 0.890196 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
